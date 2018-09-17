@@ -7,7 +7,7 @@ public class Gen2<T> extends Gen<T> {
 
     @Override
     public T getOb() {
-        System.out.print("Метод gerob() из класса Gen2: ");
+        System.out.print("Метод gerob() из класса  Gen2: ");
         return ob;
     }
 }

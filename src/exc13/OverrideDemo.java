@@ -8,6 +8,7 @@ public class OverrideDemo {
 
         Gen2<String> strOb = new Gen2<>("Hello");
 
+
         System.out.println(iOb.getOb());
         System.out.println(iOb2.getOb());
         System.out.println(strOb.getOb());
